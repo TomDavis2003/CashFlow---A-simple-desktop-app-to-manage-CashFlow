@@ -1,0 +1,1 @@
+A simple desktop app to manage monthly income, expenses, loans, and salary payments. It features a dynamic cashflow table, automatic balance updates, and alerts when funds are insufficient for key payments like salaries. Ideal for individuals or small businesses to monitor and plan finances effectively.
